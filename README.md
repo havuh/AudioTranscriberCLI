@@ -9,7 +9,15 @@ A simple command-line tool to transcribe audio files into text using Google Spee
 - 🔹 Color-coded interface for better readability.
 - 🔹 Handles errors gracefully (invalid paths, unsupported audio, etc.).
 
-## 🚀 Installation
+## 🚀 Installation & Download
+
+### 🔹 Option 1: Download Executable (No Installation Required)
+You can download the latest `.exe` version from the **Releases** section:
+
+👉 **[Download Here](https://github.com/havuh/AudioTranscriberCLI/releases/latest)**
+
+### 🔹 Option 2: Run from Source (Requires Python)
+If you prefer, you can run the script manually:
 
 1. **Clone the repository**  
 2. **Create a virtual environment** (optional but recommended)
