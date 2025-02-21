@@ -46,7 +46,7 @@ The executable will be in the `dist/` folder.
 * SpeechRecognition
 * colorama
 
-# ⚠️ Limitations
+## ⚠️ Limitations
 * Requires an internet connection for Google Speech Recognition.
 * Only supports .wav files (convert other formats first).
 
