@@ -41,7 +41,7 @@ To generate a standalone `.exe` (Windows only):
    ```
 The executable will be in the `dist/` folder.
 
-# 📝 Requirements
+## 📝 Requirements
 * Python 3.8+
 * SpeechRecognition
 * colorama
@@ -50,6 +50,6 @@ The executable will be in the `dist/` folder.
 * Requires an internet connection for Google Speech Recognition.
 * Only supports .wav files (convert other formats first).
 
-# 📄 License
+## 📄 License
 MIT License
 
