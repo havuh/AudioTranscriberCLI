@@ -57,6 +57,9 @@ The executable will be in the `dist/` folder.
 ## ⚠️ Limitations
 * Requires an internet connection for Google Speech Recognition.
 * Only supports .wav files (convert other formats first).
+* Don't support copyright audio files.
+
+**We are working on a new version to solve these limitations**
 
 ## 📄 License
 MIT License
